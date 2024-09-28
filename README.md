@@ -22,12 +22,13 @@ Para ejecutar el script, simplemente utiliza el siguiente comando en tu terminal
 ./script.sh <IP> <CIDR>
 
 Ejemplo
-bash
-Copiar código
+
 ./script.sh 192.168.1.1 24
+
 Opciones
 <IP>: Dirección IP que deseas consultar.
 <CIDR>: El CIDR asociado a la dirección IP.
+
 Salida
 El script mostrará la información de la red, destacando los valores clave con colores para facilitar la interpretación.
 
